@@ -1,0 +1,23 @@
+{
+  "name": "merced-vuer",
+  "version": "1.0.0",
+  "description": "This is a command-line tool for generating Vue projects with router and Buefy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/merced-vuer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/merced-vuer/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/merced-vuer#readme",
+  "bin": {
+    "merced-vuer": "index.js"
+  }
+}

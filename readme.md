@@ -1,39 +1,15 @@
 # merced-Vuer
 
-This is a command-line tool for generating react projects that use the parcel builder.
+This is a command-line tool for generating Vue projects with router and the Buefy component library.
 
-There are two templates (js => javascript template and ts => typescript template)
+## Create a project
 
-# how it works
+```npx merced-vuer <projectname>```
 
-install this library
-
-```
-npm install -g merced-reactor
-```
-
-run command to generate project folder
-
-```
-merced-reactor <projectName> <template>
-```
-
-for example
-
-```
-merced-reactor myProject ts
-```
-
-after it comples cd into the project folder
+after it completes cd into the project folder
 
 run "npm install"
 
-run "npm run dev" to go into development
+run "npm run serve" to go into development
 
 run "npm run build" to generate deployable build
-
-NOTE: THE TYPESCRIPT TEMPLATE REQUIRES PARCEL TO BE GLOBALLY INSTALLED
-
-```
-npm i -g parcel
-```
