@@ -1,6 +1,6 @@
 {
   "name": "merced-vuer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a command-line tool for generating Vue projects with router and Buefy.",
   "main": "index.js",
   "scripts": {
